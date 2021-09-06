@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="AnimateFX-1.2.1" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.5.6" level="project" />
+    <orderEntry type="library" name="richtextfx-0.10.5" level="project" />
+    <orderEntry type="library" name="controlsfx-11.0.3" level="project" />
+    <orderEntry type="library" name="flowless-0.6.1" level="project" />
+    <orderEntry type="library" name="reactfx-2.0-M5" level="project" />
+    <orderEntry type="library" name="javafx-base-11.0.2" level="project" />
+    <orderEntry type="library" name="undofx-2.1.0" level="project" />
+    <orderEntry type="library" name="wellbehavedfx-0.3.3" level="project" />
+  </component>
+</module>
